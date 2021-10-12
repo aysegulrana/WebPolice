@@ -1,0 +1,33 @@
+C:\Users\orkun\OneDrive\Masaüstü\cs408proje\server\proxy\proxy\bin\Debug\proxy.exe.config
+C:\Users\orkun\OneDrive\Masaüstü\cs408proje\server\proxy\bin\Debug\proxy.exe.config
+C:\Users\orkun\OneDrive\Masaüstü\cs408proje\server\proxy\obj\Debug\proxy.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\server\proxy\bin\Debug\proxy.exe.config
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\server\proxy\bin\Debug\proxy.exe
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\server\proxy\bin\Debug\proxy.pdb
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\server\proxy\bin\Debug\mscorlib.dll
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\server\proxy\bin\Debug\System.Net.Http.dll
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\server\proxy\bin\Debug\System.Net.Http.xml
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\server\proxy\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\server\proxy\bin\Debug\normidna.nlp
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\server\proxy\bin\Debug\normnfc.nlp
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\server\proxy\bin\Debug\normnfd.nlp
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\server\proxy\bin\Debug\normnfkc.nlp
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\server\proxy\bin\Debug\normnfkd.nlp
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\server\proxy\obj\Debug\proxy.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\server\proxy\obj\Debug\proxy.exe
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\server\proxy\obj\Debug\proxy.pdb
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\WebPolice\server\proxy\bin\Debug\proxy.exe.config
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\WebPolice\server\proxy\obj\Debug\proxy.exe
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\WebPolice\server\proxy\obj\Debug\proxy.pdb
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\WebPolice\server\proxy\bin\Debug\proxy.exe
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\WebPolice\server\proxy\bin\Debug\proxy.pdb
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\WebPolice\server\proxy\bin\Debug\mscorlib.dll
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\WebPolice\server\proxy\bin\Debug\System.Net.Http.dll
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\WebPolice\server\proxy\bin\Debug\System.Net.Http.xml
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\WebPolice\server\proxy\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\WebPolice\server\proxy\bin\Debug\normidna.nlp
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\WebPolice\server\proxy\bin\Debug\normnfc.nlp
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\WebPolice\server\proxy\bin\Debug\normnfd.nlp
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\WebPolice\server\proxy\bin\Debug\normnfkc.nlp
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\WebPolice\server\proxy\bin\Debug\normnfkd.nlp
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\WebPolice\server\proxy\obj\Debug\proxy.csprojResolveAssemblyReference.cache

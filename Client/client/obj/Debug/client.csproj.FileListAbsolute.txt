@@ -1,0 +1,27 @@
+C:\Users\orkun\OneDrive\Masaüstü\cs408proje\client\client\bin\Debug\client.exe.config
+C:\Users\orkun\OneDrive\Masaüstü\cs408proje\client\client\bin\Debug\client.exe
+C:\Users\orkun\OneDrive\Masaüstü\cs408proje\client\client\bin\Debug\client.pdb
+C:\Users\orkun\OneDrive\Masaüstü\cs408proje\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\orkun\OneDrive\Masaüstü\cs408proje\client\client\obj\Debug\client.Form1.resources
+C:\Users\orkun\OneDrive\Masaüstü\cs408proje\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\orkun\OneDrive\Masaüstü\cs408proje\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\orkun\OneDrive\Masaüstü\cs408proje\client\client\obj\Debug\client.exe
+C:\Users\orkun\OneDrive\Masaüstü\cs408proje\client\client\obj\Debug\client.pdb
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\bin\Debug\client.exe.config
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\obj\Debug\client.exe
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\obj\Debug\client.pdb
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\bin\Debug\client.exe
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\bin\Debug\client.pdb
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\bin\Debug\mscorlib.dll
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\bin\Debug\System.Net.Http.dll
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\bin\Debug\System.Net.Http.xml
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\bin\Debug\normidna.nlp
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\bin\Debug\normnfc.nlp
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\bin\Debug\normnfd.nlp
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\bin\Debug\normnfkc.nlp
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\bin\Debug\normnfkd.nlp
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\obj\Debug\client.Form1.resources
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\USER\Desktop\Okul\Spring 2020-2021\CS 408\cs408proje\client\client\obj\Debug\client.csproj.GenerateResource.Cache
